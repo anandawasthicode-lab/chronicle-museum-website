@@ -10,9 +10,9 @@ MEMBER 1 ANAND AWASTHI ROLL NO:
 <br>
 MEMBER 2 PREM BHUSAWALE ROLL NO:
 202610101200062
- 
-
-202610101200061 
+<br>
+MEMBER 3 PAVAN KUMAR ROLL NO:
+202610101200063
 
 ## Features
 
@@ -35,10 +35,10 @@ No installation is needed.
 
 | Member | Contribution |
 |--------|--------------|
-| Anand | :- added roll number
-| Pawan | :-
-| Prem | :- Readme file Edited
-| Preet | :-
+| Anand Awasthi | :- added roll number
+| Pavan Kumar | :-  add roll number
+| Prem Bhusawale| :- Readme file Edited
+| Preet Nagar | :-
 
 ## Technologies Used
 
