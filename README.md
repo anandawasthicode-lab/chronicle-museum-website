@@ -7,6 +7,11 @@ The page shows museum exhibits as cards, lets visitors filter them by historical
 ## Group Members
 MEMBER1 ANAND AWASTHI ROLL NO:
 202610101200061
+<br>
+MEMBER 2 PREM BHUSAWALE ROLL NO:
+202610101200062
+ 
+
 
 ## Features
 
