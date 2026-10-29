@@ -31,7 +31,7 @@ No installation is needed.
 |--------|--------------|
 | Anand | :-
 | Pawan | :-
-| Prem | :-
+| Prem | :- Readme file Edited
 | Preet | :-
 
 ## Technologies Used
