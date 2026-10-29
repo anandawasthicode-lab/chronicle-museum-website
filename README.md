@@ -5,7 +5,7 @@ A virtual museum website built with only **HTML, CSS and JavaScript** (no framew
 The page shows museum exhibits as cards, lets visitors filter them by historical period, and opens a detailed pop-up (modal) when a card is clicked. A timeline explains the three periods: Ancient, Medieval and Modern.
 
 ## Group Members
-MEMBER1 ANAND AWASTHI ROLL NO:
+MEMBER 1 ANAND AWASTHI ROLL NO:
 202610101200061
 <br>
 MEMBER 2 PREM BHUSAWALE ROLL NO:
