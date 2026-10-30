@@ -45,4 +45,4 @@ No installation is needed.
 
 ## Technologies Used
 
-HTML5, CSS3, JavaScript , Git and GitHub.
+HTML5, CSS3, Git and GitHub.
