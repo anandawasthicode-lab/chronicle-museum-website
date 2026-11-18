@@ -71,3 +71,8 @@ input[type="button"]:hover {
     text-align: left;
     cursor: pointer;
 }
+
+.exhibit:hover {
+    border: 1px solid #d6ad60;
+    background-color: #333333;
+}
