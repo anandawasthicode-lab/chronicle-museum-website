@@ -42,3 +42,16 @@ hr {
     text-align: center;
     padding: 20px;
 }
+
+input[type="button"] {
+    background-color: #d6ad60;
+    color: black;
+    border: none;
+    padding: 12px 20px;
+    margin: 50px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: white;
+}
