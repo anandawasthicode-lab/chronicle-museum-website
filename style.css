@@ -55,3 +55,19 @@ input[type="button"] {
 input[type="button"]:hover {
     background-color: white;
 }
+
+#gallery {
+    text-align: center;
+}
+
+.exhibit {
+    display: inline-block;
+    vertical-align: top;
+    width: 280px;
+    background-color: #252525;
+    border: 1px solid #555555;
+    padding: 15px;
+    margin: 12px;
+    text-align: left;
+    cursor: pointer;
+}
