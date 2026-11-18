@@ -83,3 +83,26 @@ input[type="button"]:hover {
     background-position: center;
     background-repeat: no-repeat;
 }
+.image1 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ZjEeQl4crM_r9PS9hzdOEbEWOuWHqZqrZ6p2VSgxsw&s=10");
+}
+
+.image2 {
+    background-image: url("https://i.pinimg.com/736x/60/f5/cb/60f5cbdc567e964a7715664de2159099.jpg");
+}
+
+.image3 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDDhLO6R_XIeEUfmUK6nGWxHndwmfIwCkDO8GACLuMw&s=10");
+}
+
+.image4 {
+    background-image: url("https://i.pinimg.com/1200x/5a/b5/ad/5ab5adbcbe72680e97c7c62a00902314.jpg");
+}
+
+.image5 {
+    background-image: url("https://i.pinimg.com/736x/7f/ec/81/7fec8103de9152c547c087b4a642d755.jpg");
+}
+
+.image6 {
+    background-image: url("https://i.pinimg.com/1200x/04/8f/5e/048f5efb5fa049f5003729c1b92d1df6.jpg");
+}
