@@ -10,3 +10,16 @@ header {
     padding: 30px;
     background-color: #222222;
 }
+
+h1 {
+    color: #d6ad60;
+    font-size: 40px;
+}
+
+h2 {
+    color: #d6ad60;
+}
+
+h3 {
+    color: #e8c783;
+}
