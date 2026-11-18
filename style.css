@@ -116,3 +116,17 @@ input[type="button"]:hover {
     border-left: 3px solid #d6ad60;
     margin: 15px;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222222;
+    color: #aaaaaa;
+    .exhibit {
+        width: 85%;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+}
