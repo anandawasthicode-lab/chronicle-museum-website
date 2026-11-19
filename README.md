@@ -38,7 +38,7 @@ No installation is needed.
 
 | Member | Contribution |
 |--------|--------------|
-| Anand Awasthi | :- added roll number
+| Anand Awasthi | :- added roll number ,added js file, added images, added style to the buttons, added header style, remove bg color, added time line (modern period), adding more artifacts, header and introduction, add boilerplate code, added index file, added css file, Update technologies used in README, Delete script.js, Added index.html,style.css,script.js, work added to readme file, added member 1 info., Added member 1 information, and Remove project description from README.
 | Pavan Kumar | :-  add roll number
 | Prem Bhusawale| :- Readme file Edited
 | Preet Nagar | :- added roll number
