@@ -41,7 +41,7 @@ No installation is needed.
 | Anand Awasthi | :- added roll number ,added js file, added images, added style to the buttons, added header style, remove bg color, added time line (modern period), adding more artifacts, header and introduction, add boilerplate code, added index file, added css file, Update technologies used in README, Delete script.js, Added index.html,style.css,script.js, work added to readme file, added member 1 info., Added member 1 information, and Remove project description from README.
 | Pavan Kumar | :-  add roll number, added footer style, added hover and border to Cards, modify horizontal lines, historical timeline add, adding artifacts (vintage camera), another ancient artifacts, and ADD ROLL NUMBER AND WORK.
 | Prem Bhusawale| :- Readme file Edited,Make spaces for images, modify introductionan and filters, style body, Added new artifact, Added EXhibit Medieva, Add filter in HTML file, Added Member 2 Information, Work added to Readme File, and discription added to readme.md,Update period descriptions for historical exhibits.
-| Preet Nagar | :- added roll number, add timeline, add gallery in style.css, change input margin 50 to 5, add colour in h1,h2,h3, add footer, add gallery, and Update README with member roll numbers, 
+| Preet Nagar | :- added roll number, add timeline, add gallery in style.css, change input margin 50 to 5, add colour in h1,h2,h3, add footer, add gallery, and Update README with member roll numbers, Revise member details and contributions in README, Revise details for Ancient Manuscript exhibit, Revise Medieval Knight Armour exhibit details, Update description of Medieval Knight Armour.
 
 ## Technologies Used
 
