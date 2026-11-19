@@ -40,7 +40,7 @@ No installation is needed.
 |--------|--------------|
 | Anand Awasthi | :- added roll number ,added js file, added images, added style to the buttons, added header style, remove bg color, added time line (modern period), adding more artifacts, header and introduction, add boilerplate code, added index file, added css file, Update technologies used in README, Delete script.js, Added index.html,style.css,script.js, work added to readme file, added member 1 info., Added member 1 information, and Remove project description from README.
 | Pavan Kumar | :-  add roll number
-| Prem Bhusawale| :- Readme file Edited
+| Prem Bhusawale| :- Readme file Edited,Make spaces for images, modify introductionan and filters, style body, Added new artifact, Added EXhibit Medieva, Add filter in HTML file, Added Member 2 Information, Work added to Readme File, and discription added to readme.md.
 | Preet Nagar | :- added roll number
 
 ## Technologies Used
