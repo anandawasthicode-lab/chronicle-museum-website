@@ -79,7 +79,7 @@ input[type="button"]:hover {
 
 .exhibit-image {
     height: 180px;
-    background-size: cover;
+    background-size: 160px 160px;
     background-position: center;
     background-repeat: no-repeat;
 }
